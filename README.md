@@ -3,7 +3,7 @@
 ### Dataset download link
 https://drive.google.com/file/d/186ejZVADY16RBfVjzcMcz9bal9L3inXC/view
 
-### Installation Rouge
+### Install Rouge
 ```shell
 git clone https://github.com/moooooser999/ADL23-HW2.git
 cd ADL23-HW2
