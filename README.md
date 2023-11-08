@@ -25,7 +25,7 @@ bash ./run_summarization_no_trainer.sh ./data/train.jsonl ./data/public.jsonl
 
 ### Predict and Evaluate
 ```shell
-bash ./pred_and_eval_summarization_no_trainer.sh ./data/public.jsonl ./pred_and_eval/pred_and_eval_beam3 ./submission_beam3.jsonl
+bash ./pred_and_eval_summarization_no_trainer.sh ./data/public.jsonl ./pred_and_eval/pred_and_eval_beam3 submission_beam3.jsonl
 ```
 
 ### Predict only
